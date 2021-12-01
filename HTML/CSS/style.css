@@ -53,6 +53,6 @@ h3 {
 .box {
     background-color: lightslategray;
     text-align: center;
-    border: 3px white solid;
+    border: 5px white solid;
     padding: 20px
 }

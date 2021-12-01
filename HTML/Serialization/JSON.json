@@ -1,0 +1,38 @@
+{
+    "users": [{
+            "firstName": "Rafiul",
+            "lastName": "Prodhan",
+            "age": 27,
+            "location": "New York City",
+            "student": true,
+            "course": "QAAEB2102"
+
+        },
+        {
+            "firstName": "Abu",
+            "lastName": "Sufian",
+            "age": 25,
+            "location": " Bufallo",
+            "student": true,
+            "course": "QAAEB2102"
+        }
+    ],
+    "classes": [{
+            "className": "SDLC",
+            "id": 1
+        },
+        {
+            "className": "Manual Testing",
+            "id": 2
+        },
+        {
+            "className": "Linux",
+            "id": 3
+        },
+        {
+            "className": "HTML and CSS",
+            "id": 4
+        }
+
+    ]
+}

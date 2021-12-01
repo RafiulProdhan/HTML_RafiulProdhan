@@ -1,0 +1,17 @@
+# We can write comments like this
+user:
+  first_name: Rafiul
+  last_name: Prodhan
+  age: 27
+  location:
+   city: Queens 
+   state: New York
+    country: USA
+  
+  first_name: Abu 
+  last_name: Sufian
+  age: 25
+  location:
+   city: Buffalo 
+   state: New York
+   country: USA
